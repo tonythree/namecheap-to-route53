@@ -1,0 +1,13 @@
+@    3601    IN SOA   123.123.123.123   hey.you.com.   2020112500  86400 7200 3600000  3601
+@    3600   IN      NS   dns1.registrar-servers.com.
+@    3600   IN      NS   dns2.registrar-servers.com.
+@    3600   IN      MX  10  eforward1.registrar-servers.com.
+@    3600   IN      MX  10  eforward2.registrar-servers.com.
+@    3600   IN      MX  10  eforward3.registrar-servers.com.
+@    3600   IN      MX  15  eforward4.registrar-servers.com.
+@    3600   IN      MX  20  eforward5.registrar-servers.com.
+@    1799   IN       A   123.123.123.123
+@    1799   IN       A   111.111.111.111
+test    1799   IN   CNAME   hey.example.com.
+prod    1799   IN   CNAME   hey.example.com.
+staging   1799   IN   CNAME   hey.example.com.
