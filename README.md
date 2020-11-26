@@ -2,7 +2,7 @@
 How to successfully migrate your namecheap records to route53 using cli53 :)
 
 ## Get the Zone file
-Login in Namecheap, and ask Namecheap support to send you the zone file of the domain you're transfering. This is a file containing all the records for your specific domain (A, TXT, MX, CNAME...) 
+Login in Namecheap, and ask Namecheap support to send you the zone file of the domain you're transfering. This is a file containing all the records for your specific domain (A, TXT, MX, CNAME...). See zonefile.txt as an example.
 
 ## Format the Zone file
 Namecheap send it to me in .docx format. Copy the text and paste it in a zonefile.txt file. Some other stuff you need to do:
