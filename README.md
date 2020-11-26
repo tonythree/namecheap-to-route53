@@ -62,3 +62,7 @@ cli53 list
 Please make sure all the records are correct and all of them are imported correctly. In my case, this was 100% correct :)
 
 That's it.
+
+##References
+http://shon.github.io/2014/12/21/dns_migration_story.html
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/ResourceRecordTypes.html#TXTFormat
